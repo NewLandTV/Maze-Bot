@@ -1,4 +1,4 @@
-![오늘의 개발노트 p.208](https://www.youtube.com/watch?v=TfgDZx3xtdA)
+[오늘의 개발노트 p.208](https://www.youtube.com/watch?v=TfgDZx3xtdA)
 
 # 사용 방법
 
